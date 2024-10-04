@@ -17,7 +17,7 @@ export default function PageCourses() {
             {
               href: "/courses/123",
               image: "https://i.ytimg.com/vi/SVepTuBK4V0/hqdefault.jpg",
-              title: "Curso de API Rest, Node e Typescript",
+              title: "1 Curso de API Rest, Node e Typescript",
               description: `
                 Precisa de ajuda? Solicite uma ajuda particular: https://forms.gle/Pu1aT2LsbU1nuTTDA
 
@@ -61,7 +61,7 @@ export default function PageCourses() {
             {
               href: "/courses/123",
               image: "https://i.ytimg.com/vi/SVepTuBK4V0/hqdefault.jpg",
-              title: "Curso de API Rest, Node e Typescript",
+              title: "2 Curso de API Rest, Node e Typescript",
               description: `
                 Precisa de ajuda? Solicite uma ajuda particular: https://forms.gle/Pu1aT2LsbU1nuTTDA
 
@@ -105,7 +105,7 @@ export default function PageCourses() {
             {
               href: "/courses/123",
               image: "https://i.ytimg.com/vi/SVepTuBK4V0/hqdefault.jpg",
-              title: "Curso de API Rest, Node e Typescript",
+              title: "3 Curso de API Rest, Node e Typescript",
               description: `
                 Precisa de ajuda? Solicite uma ajuda particular: https://forms.gle/Pu1aT2LsbU1nuTTDA
 
@@ -149,7 +149,7 @@ export default function PageCourses() {
             {
               href: "/courses/123",
               image: "https://i.ytimg.com/vi/SVepTuBK4V0/hqdefault.jpg",
-              title: "Curso de API Rest, Node e Typescript",
+              title: "4 Curso de API Rest, Node e Typescript",
               description: `
                 Precisa de ajuda? Solicite uma ajuda particular: https://forms.gle/Pu1aT2LsbU1nuTTDA
 
